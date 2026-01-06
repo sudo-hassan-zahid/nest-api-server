@@ -158,7 +158,3 @@ Main packages used:
 - The database schema is auto-created on startup (synchronize: true)
 - Set `synchronize: false` in production
 - Email must be unique across all users
-
-## License
-
-MIT
